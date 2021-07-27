@@ -12,6 +12,8 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    env:
+        client_id: ${{ secrets.CLIENT_ID }}
 
     steps:
     - uses: actions/checkout@v2
