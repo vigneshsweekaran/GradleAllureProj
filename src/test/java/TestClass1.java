@@ -9,7 +9,8 @@ public class TestClass1 {
 
     @Test
     public void testMethod2() {
-        System.out.println(SystemPropertiesReader.getProperty("client_id"));
+        String client_id = SystemPropertiesReader.getProperty("client_id");
+        if (client_id.equals("qwerty")) System.out.println("QWERTY!!!");
     }
 
     @Test
