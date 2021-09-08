@@ -1,4 +1,5 @@
 import com.codeborne.selenide.Condition;
+import com.codeborne.selenide.Configuration;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -24,6 +25,7 @@ public class TestClass1 {
 
     @Test
     public void testMethod4() {
+        Configuration.headless = true;
         open("https://phptravels.com/demo/");
         $(".main-title strong").shouldHave(Condition.text("Demo Credentials for Frontend and Backend"));
     }
