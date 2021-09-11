@@ -1,0 +1,62 @@
+{
+  "uid" : "29bd45c74487aa09",
+  "name" : "testMethod2",
+  "fullName" : "TestClass2.testMethod2",
+  "historyId" : "48b87bc94c5c17859e197e9c305136f",
+  "time" : {
+    "start" : 1631331602678,
+    "stop" : 1631331602678,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestClass2"
+  }, {
+    "name" : "testClass",
+    "value" : "TestClass2"
+  }, {
+    "name" : "testMethod",
+    "value" : "testMethod2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "suite",
+    "value" : "Gradle test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass2"
+  }, {
+    "name" : "host",
+    "value" : "fv-az180-202"
+  }, {
+    "name" : "thread",
+    "value" : "2871@fv-az180-202.Test worker(11)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29bd45c74487aa09.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Sep 11 03:40:02 GMT 2021","Sat Sep 11 03:40:02 GMT 2021","8","Gradle suite","Gradle test","TestClass1","TestClass1","testMethod1","testMethod1",""
+"passed","Sat Sep 11 03:40:02 GMT 2021","Sat Sep 11 03:40:02 GMT 2021","0","Gradle suite","Gradle test","TestClass2","TestClass2","testMethod1","testMethod1",""
+"passed","Sat Sep 11 03:40:02 GMT 2021","Sat Sep 11 03:40:02 GMT 2021","0","Gradle suite","Gradle test","TestClass1","TestClass1","testMethod3","testMethod3",""
+"passed","Sat Sep 11 03:40:02 GMT 2021","Sat Sep 11 03:40:02 GMT 2021","0","Gradle suite","Gradle test","TestClass2","TestClass2","testMethod2","testMethod2",""
+"passed","Sat Sep 11 03:40:02 GMT 2021","Sat Sep 11 03:40:02 GMT 2021","1","Gradle suite","Gradle test","TestClass1","TestClass1","testMethod2","testMethod2",""
+"passed","Sat Sep 11 03:40:02 GMT 2021","Sat Sep 11 03:40:02 GMT 2021","1","Gradle suite","Gradle test","TestClass2","TestClass2","testMethod3","testMethod3",""
