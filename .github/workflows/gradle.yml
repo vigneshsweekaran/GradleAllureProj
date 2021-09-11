@@ -32,6 +32,9 @@ jobs:
         ./gradlew build
         ls -lart
         ls -lart build
+        ls -lart build/test-results
+        ls -lart build/reports
+        ls -lart build/allure-results
 
     - name: Get Allure history
       uses: actions/checkout@v2
